@@ -2,7 +2,7 @@
 A simple Django project template that provides a basic structure for starting a new web application using the Django web framework.
 
 ## Folders Description:
-- my_tennis club: represents the project. 
+- my_tennis_club: represents the project. 
 - myworld: represents the virtual environment. 
 
 ## Tutorils 
